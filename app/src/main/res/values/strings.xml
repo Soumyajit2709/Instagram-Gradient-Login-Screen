@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram Gradient LogIn</string>
+    <string name="acc">Don\'t have an account? <b>Sign up.</b></string>
+    <string name="forget">Forget your login details? <b>Get help signing in.</b></string>
+</resources>
